@@ -180,10 +180,10 @@ export default function PolicyPage() {
 
             {/* Navigation */}
             <div className="flex justify-between mt-16 pt-8 border-t border-brand-purple-light">
-              <Link href="/framework/discovery" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/discovery" className="text-brand-accent hover:text-blue-400 font-semibold">
                 ← Previous: Discovery & Inventory
               </Link>
-              <Link href="/framework/risk" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/risk" className="text-brand-accent hover:text-blue-400 font-semibold">
                 Next: Risk Assessment →
               </Link>
             </div>

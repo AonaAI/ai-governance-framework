@@ -193,10 +193,10 @@ export default function RiskPage() {
 
             {/* Navigation */}
             <div className="flex justify-between mt-16 pt-8 border-t border-brand-purple-light">
-              <Link href="/framework/policy" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/policy" className="text-brand-accent hover:text-blue-400 font-semibold">
                 ← Previous: Policy & Standards
               </Link>
-              <Link href="/framework/controls" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/controls" className="text-brand-accent hover:text-blue-400 font-semibold">
                 Next: Controls & Guardrails →
               </Link>
             </div>

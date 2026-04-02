@@ -128,7 +128,7 @@ export default function AboutPage() {
                   href="https://aona.ai"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 px-6 py-3 bg-brand-accent hover:bg-purple-600 text-white rounded-lg transition-all font-semibold"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-brand-accent hover:bg-blue-600 text-white rounded-lg transition-all font-semibold"
                 >
                   Visit Aona AI Platform
                   <span>→</span>
@@ -193,7 +193,7 @@ export default function AboutPage() {
                   href="https://aona.ai/contact"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-brand-accent hover:text-purple-400 font-semibold"
+                  className="text-brand-accent hover:text-blue-400 font-semibold"
                 >
                   Contact Us →
                 </a>
@@ -208,7 +208,7 @@ export default function AboutPage() {
                   href="https://aona.ai/contribute"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-brand-accent hover:text-purple-400 font-semibold"
+                  className="text-brand-accent hover:text-blue-400 font-semibold"
                 >
                   Contribute →
                 </a>
@@ -223,7 +223,7 @@ export default function AboutPage() {
                   href="https://aona.ai/partners"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-brand-accent hover:text-purple-400 font-semibold"
+                  className="text-brand-accent hover:text-blue-400 font-semibold"
                 >
                   Learn More →
                 </a>
@@ -284,7 +284,7 @@ export default function AboutPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/framework"
-                className="px-8 py-4 bg-brand-accent hover:bg-purple-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
+                className="px-8 py-4 bg-brand-accent hover:bg-blue-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
               >
                 Explore the Framework
               </Link>

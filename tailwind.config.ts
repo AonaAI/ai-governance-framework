@@ -9,13 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'brand-dark': '#11021d',
-        'brand-purple': '#1a0533',
-        'brand-purple-light': '#2d1054',
-        'brand-accent': '#6412A6',
+        'brand-dark': '#0a1628',
+        'brand-purple': '#132040',
+        'brand-purple-light': '#1e3a5f',
+        'brand-accent': '#3b82f6',
       },
       fontFamily: {
-        'sans': ['Manrope', 'system-ui', 'sans-serif'],
+        'sans': ['Inter', 'system-ui', 'sans-serif'],
       },
     },
   },

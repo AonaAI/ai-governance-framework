@@ -161,7 +161,7 @@ export default function TemplatesPage() {
                     <span>•</span>
                     <span>{template.format}</span>
                   </div>
-                  <button className="w-full px-6 py-3 bg-brand-accent hover:bg-purple-600 text-white rounded-lg transition-all font-semibold">
+                  <button className="w-full px-6 py-3 bg-brand-accent hover:bg-blue-600 text-white rounded-lg transition-all font-semibold">
                     Download Template
                   </button>
                 </div>
@@ -221,7 +221,7 @@ export default function TemplatesPage() {
                     <div className="text-sm text-gray-400 mb-2">Last Updated</div>
                     <div className="text-lg text-white">February 2026</div>
                   </div>
-                  <button className="w-full px-8 py-4 bg-brand-accent hover:bg-purple-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105">
+                  <button className="w-full px-8 py-4 bg-brand-accent hover:bg-blue-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105">
                     Download Complete Package
                   </button>
                   <p className="text-center text-sm text-gray-400 mt-4">
@@ -283,7 +283,7 @@ export default function TemplatesPage() {
             </p>
             <Link
               href="/framework"
-              className="inline-block px-8 py-4 bg-brand-accent hover:bg-purple-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
+              className="inline-block px-8 py-4 bg-brand-accent hover:bg-blue-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
             >
               Explore the Framework
             </Link>

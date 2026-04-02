@@ -217,10 +217,10 @@ export default function MonitoringPage() {
 
             {/* Navigation */}
             <div className="flex justify-between mt-16 pt-8 border-t border-brand-purple-light">
-              <Link href="/framework/controls" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/controls" className="text-brand-accent hover:text-blue-400 font-semibold">
                 ← Previous: Controls & Guardrails
               </Link>
-              <Link href="/framework" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework" className="text-brand-accent hover:text-blue-400 font-semibold">
                 Back to Framework →
               </Link>
             </div>

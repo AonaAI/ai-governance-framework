@@ -213,10 +213,10 @@ export default function ControlsPage() {
 
             {/* Navigation */}
             <div className="flex justify-between mt-16 pt-8 border-t border-brand-purple-light">
-              <Link href="/framework/risk" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/risk" className="text-brand-accent hover:text-blue-400 font-semibold">
                 ← Previous: Risk Assessment
               </Link>
-              <Link href="/framework/monitoring" className="text-brand-accent hover:text-purple-400 font-semibold">
+              <Link href="/framework/monitoring" className="text-brand-accent hover:text-blue-400 font-semibold">
                 Next: Monitoring & Compliance →
               </Link>
             </div>

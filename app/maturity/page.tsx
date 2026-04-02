@@ -322,7 +322,7 @@ export default function MaturityPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/framework"
-                className="px-8 py-4 bg-brand-accent hover:bg-purple-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
+                className="px-8 py-4 bg-brand-accent hover:bg-blue-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
               >
                 Explore the Framework
               </Link>

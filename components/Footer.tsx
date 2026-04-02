@@ -1,3 +1,5 @@
+"use client";
+
 import Link from 'next/link';
 
 export default function Footer() {
@@ -41,7 +43,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-brand-purple-light mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; {new Date().getFullYear()} AI Governance Framework. Maintained by <a href="https://aona.ai" target="_blank" rel="noopener noreferrer" className="text-brand-accent hover:text-purple-400">Aona AI</a>. Open source and freely available.</p>
+          <p>&copy; {new Date().getFullYear()} AI Governance Framework. Maintained by <a href="https://aona.ai" target="_blank" rel="noopener noreferrer" className="text-brand-accent hover:text-blue-400">Aona AI</a>. Open source and freely available.</p>
         </div>
       </div>
     </footer>

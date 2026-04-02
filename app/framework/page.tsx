@@ -202,7 +202,7 @@ export default function FrameworkPage() {
 
                       <Link
                         href={`/framework/${pillar.id}`}
-                        className="inline-flex items-center gap-2 px-6 py-3 bg-brand-accent hover:bg-purple-600 text-white rounded-lg transition-all font-semibold"
+                        className="inline-flex items-center gap-2 px-6 py-3 bg-brand-accent hover:bg-blue-600 text-white rounded-lg transition-all font-semibold"
                       >
                         Learn More About {pillar.title}
                         <span>→</span>
@@ -230,7 +230,7 @@ export default function FrameworkPage() {
                 <p className="text-gray-300 mb-4">
                   Use our maturity model to understand where you are today and identify priority areas for improvement.
                 </p>
-                <Link href="/maturity" className="text-brand-accent hover:text-purple-400 font-semibold">
+                <Link href="/maturity" className="text-brand-accent hover:text-blue-400 font-semibold">
                   Take Assessment →
                 </Link>
               </div>
@@ -240,7 +240,7 @@ export default function FrameworkPage() {
                 <p className="text-gray-300 mb-4">
                   Access ready-to-use policy templates, checklists, and assessment tools to accelerate implementation.
                 </p>
-                <Link href="/templates" className="text-brand-accent hover:text-purple-400 font-semibold">
+                <Link href="/templates" className="text-brand-accent hover:text-blue-400 font-semibold">
                   Get Templates →
                 </Link>
               </div>
@@ -250,7 +250,7 @@ export default function FrameworkPage() {
                 <p className="text-gray-300 mb-4">
                   Focus on one pillar at a time. Start with Discovery to build visibility, then layer on additional governance capabilities.
                 </p>
-                <Link href="/framework/discovery" className="text-brand-accent hover:text-purple-400 font-semibold">
+                <Link href="/framework/discovery" className="text-brand-accent hover:text-blue-400 font-semibold">
                   Start with Discovery →
                 </Link>
               </div>
@@ -273,7 +273,7 @@ export default function FrameworkPage() {
               href="https://aona.ai"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block px-8 py-4 bg-brand-accent hover:bg-purple-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
+              className="inline-block px-8 py-4 bg-brand-accent hover:bg-blue-600 text-white text-lg font-semibold rounded-lg transition-all transform hover:scale-105"
             >
               Learn About Aona AI Platform
             </a>

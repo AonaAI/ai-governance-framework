@@ -30,6 +30,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -48,7 +50,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body>
+      <body className="overflow-x-hidden">
         <Header />
         <main className="min-h-screen">
           {children}
